@@ -1,0 +1,5 @@
+{
+  "name": "Board Game Rental",
+  "description": "A web application to browse, borrow, and return board games. It provides a clean and modern interface to manage a board game library.",
+  "requestFramePermissions": []
+}
